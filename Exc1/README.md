@@ -40,7 +40,7 @@
 
 ### DFD-Обработка платежей
 
-![DFD-Обработка платежей](DFD-Обработка-платежей.drawio.png)
+![DFD-Обработка платежей drawio](https://github.com/user-attachments/assets/31c22f25-19ce-44c8-aa20-53466de18be9)
 
 ### DFD-Управление ТМЦ
 
